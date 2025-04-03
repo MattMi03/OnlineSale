@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.matt.onlinesale</groupId>
+    <artifactId>onlinesale</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>online sale</name>
+    <description>online sale服务</description>
+    <packaging>pom</packaging>
+    <url/>
+    <licenses>
+        <license/>
+    </licenses>
+    <developers>
+        <developer/>
+    </developers>
+    <scm>
+        <connection/>
+        <developerConnection/>
+        <tag/>
+        <url/>
+    </scm>
+
+    <modules>
+        <module>coupon</module>
+        <module>order</module>
+        <module>product</module>
+        <module>ware</module>
+        <module>member</module>
+    </modules>
+</project>
